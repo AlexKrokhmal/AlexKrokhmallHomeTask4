@@ -1,0 +1,6 @@
+E:\Programming\HomeTasks\HomeTask4\HomeTask4\bin\Debug\HomeTask4.exe.config
+E:\Programming\HomeTasks\HomeTask4\HomeTask4\bin\Debug\HomeTask4.exe
+E:\Programming\HomeTasks\HomeTask4\HomeTask4\bin\Debug\HomeTask4.pdb
+E:\Programming\HomeTasks\HomeTask4\HomeTask4\obj\Debug\HomeTask4.csprojResolveAssemblyReference.cache
+E:\Programming\HomeTasks\HomeTask4\HomeTask4\obj\Debug\HomeTask4.exe
+E:\Programming\HomeTasks\HomeTask4\HomeTask4\obj\Debug\HomeTask4.pdb
